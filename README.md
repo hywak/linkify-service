@@ -79,7 +79,6 @@ docker-compose up -d
 
 > Jacoco test report will be generated in `build/jacocoHtml/index.html`
 
-```bash
 ## URL Shortener API Documentation
 
 ### Base URL
